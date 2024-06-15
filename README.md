@@ -11,3 +11,5 @@ Repo to store the files used in the 100 days of code journey!
 - Day 3 - Treasure Island.py
 
 - Day 4 - Rock Paper Scissors.py
+
+- Day 5 - PyPassword.py
