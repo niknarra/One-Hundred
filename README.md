@@ -15,3 +15,5 @@ Repo to store the files used in the 100 days of code journey!
 - Day 5 - PyPassword.py
 
 - Day 6 - https://reeborg.ca/ Challenges
+
+- Day 7 - Hangman.py
