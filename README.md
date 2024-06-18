@@ -21,3 +21,7 @@ Repo to store the files used in the 100 days of code journey!
 :checkered_flag: Week 1 complete!
 
 - Day 8 - Caesar Cipher.py
+
+- Day 9 - Silent Auction.py
+
+- Day 10 - PyCalculator.py
