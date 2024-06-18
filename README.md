@@ -19,3 +19,5 @@ Repo to store the files used in the 100 days of code journey!
 - Day 7 - Hangman.py
 
 :checkered_flag: Week 1 complete!
+
+- Day 8 - Caesar Cipher.py
