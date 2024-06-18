@@ -1,4 +1,4 @@
-# 100 Days of Code Challenge!
+# 100 Days of Code Challenge - Triple Threat!
 
 Welcome to my 100 Days of Code challenge repository! This project is not just about consistency and commitment but also about enhancing my skills across three different programming languages: Python, C++, and JavaScript. Each day, I solve the same project in all three languages to deepen my understanding and improve my versatility as a software developer.
 
@@ -11,6 +11,7 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 - C++: To deepen my understanding of low-level programming and performance optimization.
 - JavaScript: To enhance my proficiency in web development and asynchronous programming.
 
+## Steps of the Journey
 :one: The Beginning
 
 - Day 1 - Band Name Generator.py
