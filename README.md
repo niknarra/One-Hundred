@@ -40,6 +40,10 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 12 - GuessTheNumber.py
 
+- Day 13 - Debugging 101
+
+- Day 14 - HigherOrLower.py
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
