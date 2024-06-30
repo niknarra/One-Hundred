@@ -36,6 +36,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 10 - PyCalculator.py
 
+- Day 11 - Blackjack.py
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
