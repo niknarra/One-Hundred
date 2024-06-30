@@ -44,6 +44,10 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 14 - HigherOrLower.py
 
+:checkered_flag: Week 2 complete!
+
+- Day 15 - Coffee Maker.py
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
