@@ -1,21 +1,33 @@
 import data
 import random
+import quiz_brain
 
-prevQuestion = 'defualt'
 questionNum = 1
+currentQuestionIndex = 0
+
+questionsList = data.question_data
+random.shuffle(questionsList)
+
+totalQuestions = len(data.question_data)
+game_continue = True
+
+
 def generate_question():
-    global prevQuestion, questionNum
-    question = random.choice(data.question_data)
+    global currentQuestionIndex, questionNum, game_continue
+
+    if currentQuestionIndex >= totalQuestions:
+        print("No more questions available. The quiz has ended.")
+        print(f"Your Final Score: {quiz_brain.userScore}")
+        game_continue = False
+        return None
+
+    question = questionsList[currentQuestionIndex]
+    currentQuestionIndex += 1
+
     questionText = question['text']
-
-    while questionText == prevQuestion:
-        question = random.choice(data.question_data)
-        questionText = question['text']
-
-    prevQuestion = questionText
-
     correctAnswer = question['answer']
-    print(f"Q{questionNum}. {questionText}")
-    questionNum += 1
 
+    print(f"Q{questionNum}. {questionText}")
+
+    questionNum += 1
     return correctAnswer
