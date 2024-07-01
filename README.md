@@ -48,6 +48,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 15 - Coffee Maker.py
 
+- Day 16 - Coffee Maker V2 (OOP)
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
