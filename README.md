@@ -52,6 +52,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 17 - True or False Quiz Game
 
+- Day 18 - Hirst Painting
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
