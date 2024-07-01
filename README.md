@@ -50,6 +50,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 16 - Coffee Maker V2 (OOP)
 
+- Day 17 - True or False Quiz Game
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
