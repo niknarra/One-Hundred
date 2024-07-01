@@ -54,6 +54,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 18 - Hirst Painting
 
+- Day 19 - Turtle Race
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
