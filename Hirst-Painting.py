@@ -1,3 +1,6 @@
+# Day 18 - July 1 '24
+# Hirst Painting
+
 import turtle as turtle_module
 import random
 
