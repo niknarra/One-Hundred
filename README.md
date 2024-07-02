@@ -56,6 +56,10 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 19 - Turtle Race
 
+- Days 20 & 21 - Snake Game inspired by Classic Nokia Mobiles
+
+:checkered_flag: Week 3 complete!
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
