@@ -62,6 +62,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 22 - Pong Game Remake
 
+- Day 23 - Turtle Crossing Game
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
