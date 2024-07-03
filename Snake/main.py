@@ -27,6 +27,8 @@ screen.onkey(mySnake.up, "Up")
 screen.onkey(mySnake.down, "Down")
 screen.onkey(mySnake.left, "Left")
 screen.onkey(mySnake.right, "Right")
+screen.onkey(mySnake.reset_snake, "space")
+screen.onkey(screen.bye, "Escape")
   
 while game_continue:
   screen.update()
@@ -41,11 +43,13 @@ while game_continue:
 
   if mySnake.head.xcor() > 290 or mySnake.head.xcor() < -290 or mySnake.head.ycor() > 290 or mySnake.head.ycor() < -290:
     game_continue = False
+    score.reset()
     score.game_over()
 
   for segment in mySnake.snakeSegments[1:]:
     if mySnake.head.distance(segment) < 10:
       game_continue = False
+      score.reset()
       score.game_over()
   
 
