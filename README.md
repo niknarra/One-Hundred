@@ -64,7 +64,7 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 23 - Turtle Crossing Game
 
-- Day 24 - Snake Game Updates (Adding a high score feature which is stored externally)
+- Day 24 - Snake Game Updates (Adding a high score feature which is stored externally) and Mail Merge
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
