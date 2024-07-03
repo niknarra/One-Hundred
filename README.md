@@ -60,6 +60,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 :checkered_flag: Week 3 complete!
 
+- Day 22 - Pong Game Remake
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
