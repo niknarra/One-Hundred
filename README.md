@@ -66,6 +66,10 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 24 - Snake Game Updates (Adding a high score feature which is stored externally) and Mail Merge
 
+- Day 25 - Guess the State Name
+
+:two::five: Days - Quarter 1 Complete!
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
