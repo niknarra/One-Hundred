@@ -70,6 +70,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 :two::five: Days - Quarter 1 Complete!
 
+- Day 26 - NATO Alphabet Project
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
