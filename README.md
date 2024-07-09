@@ -78,6 +78,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 :checkered_flag: Week 4 complete!
 
+- Day 29 - Password Manager
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
