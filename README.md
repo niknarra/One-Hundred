@@ -74,6 +74,10 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 27 - Miles to Kms with Tkinter
 
+- Day 28 - Pomodoro Timer Application
+
+:checkered_flag: Week 4 complete!
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
