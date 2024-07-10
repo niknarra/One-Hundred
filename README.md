@@ -80,6 +80,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 29 - Password Manager
 
+- Day 30 - Password Manager V2 - Search functionality and other UI updates
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
