@@ -4,4 +4,8 @@ scratch.py
 nato_phonetic_alphabet.csv
 tomato.png
 logo.png
+.env
+letter_templates/
+birthdays.csv
+quotes.txt
 .venv/
