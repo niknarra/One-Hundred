@@ -82,6 +82,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 30 - Password Manager V2 - Search functionality and other UI updates
 
+- Day 31 - Flashy - Flashcards App to learn French
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
