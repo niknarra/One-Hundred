@@ -84,6 +84,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 31 - Flashy - Flashcards App to learn French
 
+- Day 32 - Automated Birthday Wisher and Monday Motivational Quote Email sender Apps with SMTP
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
