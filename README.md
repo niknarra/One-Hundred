@@ -88,6 +88,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 33 - ISS Overhead Notifier with APIs
 
+- Day 34 - Quizzy - A GUI based Quiz Game
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
