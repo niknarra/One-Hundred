@@ -90,6 +90,10 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 34 - Quizzy - A GUI based Quiz Game
 
+- Day 35 - Rain Notifier - Using Twilio SMS API and OpenWeather weather API
+
+:checkered_flag: Week 5 complete!
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
