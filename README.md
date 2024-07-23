@@ -94,6 +94,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 :checkered_flag: Week 5 complete!
 
+- Day 36 - Stock Price Variation Notifier with News, Stock and Twilio SMS APIs
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
