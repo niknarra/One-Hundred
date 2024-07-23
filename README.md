@@ -96,6 +96,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 36 - Stock Price Variation Notifier with News, Stock and Twilio SMS APIs
 
+- Day 37 - Habit Tracker with Pixela
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
