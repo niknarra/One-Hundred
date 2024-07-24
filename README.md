@@ -98,6 +98,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 37 - Habit Tracker with Pixela
 
+- Day 38 - Workout Tracker with Google Sheets and Nutritionix NLP APIs
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
