@@ -104,6 +104,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 40 - Flight Club - Flight Deals Tracker with Users
 
+- Day 41 - Movie Ranking (Web Dev projects init)
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
