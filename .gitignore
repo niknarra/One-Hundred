@@ -2,8 +2,10 @@
 Mail Merge/
 scratch.py
 nato_phonetic_alphabet.csv
+.cache
 tomato.png
 logo.png
+token.txt
 .env
 letter_templates/
 kanye.png
