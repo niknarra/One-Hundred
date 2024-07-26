@@ -112,6 +112,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 44 - Meme Poster Website
 
+- Day 45 - 100 Greatest Movies List builder with Web Scraping
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
