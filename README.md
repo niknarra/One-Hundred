@@ -108,6 +108,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 42 - Birthday Invitation Website
 
+:checkered_flag: Week 6 complete!
+
 - Day 43 - Spanish Vocabulary Flashcard Website
 
 - Day 44 - Meme Poster Website
