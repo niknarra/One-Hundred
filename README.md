@@ -100,6 +100,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 38 - Workout Tracker with Google Sheets and Nutritionix NLP APIs
 
+- Day 39 - Cheap Flights Tracker and Notifier
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
