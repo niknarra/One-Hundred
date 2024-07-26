@@ -102,6 +102,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 39 - Cheap Flights Tracker and Notifier
 
+- Day 40 - Flight Club - Flight Deals Tracker with Users
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
