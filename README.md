@@ -106,6 +106,10 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 41 - Movie Ranking (Web Dev projects init)
 
+- Day 42 - Birthday Invitation Website
+
+- Day 43 - Spanish Vocabulary Flashcard Website
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
