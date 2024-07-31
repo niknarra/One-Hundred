@@ -118,6 +118,8 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 46 - Spotify Playlist creator based on Top 100 songs for a given date
 
+- Day 47 - Automated Amazon Price Drop Notifier
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
