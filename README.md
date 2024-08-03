@@ -122,6 +122,10 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 - Day 48 - Game Playing Bot using Selenium
 
+- Day 49 - LinkedIn Job Applications automater with Selenium WebDriver
+
+:checkered_flag: Week 7 complete!
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
