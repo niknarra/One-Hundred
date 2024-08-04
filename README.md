@@ -126,6 +126,12 @@ In this repository, you will find my daily coding challenges tackled in Python, 
 
 :checkered_flag: Week 7 complete!
 
+- Day 50 - Tinder Swipe Bot
+
+:five::zero: - 50 Days completed! :checkered_flag::checkered_flag:
+
+- Day 51 - Automated Internet Speed Test and Tweet Poster
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nikhilnarra/
 - Email: nikhilnarra@vt.edu
