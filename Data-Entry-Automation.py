@@ -14,6 +14,7 @@ webSoup = BeautifulSoup(getListings,'html.parser')
 
 addresses = webSoup.select("div a address")
 # links = webSoup.find_all("a",{"class":"StyledPropertyCardDataWrapper"}).get("href")
+addressList = []
 
 a_tag = webSoup.find('a', class_='StyledPropertyCardDataArea-anchor', attrs={'data-test': 'property-card-link'})
 
@@ -25,7 +26,7 @@ print(href_link)
 # for link in links:
 #     print(link.text)
 
-# for address in addresses:
-#     print(address.text)
+for address in addresses:
+    addressList.append(address.text)
 
 # print(links)
